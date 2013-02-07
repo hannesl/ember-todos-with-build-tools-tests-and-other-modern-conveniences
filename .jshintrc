@@ -20,6 +20,7 @@
     "sinon": true,
     "require": true,
     "Ember": true,
+    "DS": true,
     "Todos": true
   }
 }
